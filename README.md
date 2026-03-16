@@ -23,9 +23,9 @@ Kaggle Hotel Booking Dataset
 - Value for money took priority over Cleanliness and Facilities
 
 ## 📈 Visualizations
-![Project chart](Screenshot1.jpg)
-![Project chart](Screenshot2.jpg)
-![Project chart](Screenshot3.jpg)
-![Project chart](Screenshot4.jpg)
+![Project chart](Screenshot1.png)
+![Project chart](Screenshot2.png)
+![Project chart](Screenshot3.png)
+![Project chart](Screenshot4.png)
 
 ## 🚀 Business Recommendations
