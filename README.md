@@ -29,3 +29,6 @@ Kaggle Hotel Booking Dataset
 ![Project chart](Screenshot4.png)
 
 ## 🚀 Business Recommendations
+-Invest in Staff training to provide a better experience for customers
+-Focus on adding Value for money features 
+
